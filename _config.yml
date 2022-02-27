@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ryuparish.github.io # the base hostname & protocol for your site
 baseurl: /ryus_website/ # the subpath of your site, e.g. /blog/
@@ -52,7 +52,7 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-# Social integration
+# Social integration (R: WATCHOUT AS ANY ERRNEOUS LINK WILL CAUSE THE W H O L E BUILD TO FAIL!)
 # -----------------------------------------------------------------------------
 
 github_username: _rp # your GitHub user name
@@ -70,10 +70,10 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+stackoverflow_id: 14574142 #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you actually want to talk to me, you can send me an email at rparish[at]cs[dot]washington[dot]edu
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -84,8 +84,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Ryu's Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: Ryu's Blog
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -93,7 +93,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
