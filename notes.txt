@@ -1,0 +1,12 @@
+Use this to run the site locally:
+    Command : bundle exec jekyll serve
+    URL : http://127.0.0.1:4000/ryus_website//
+
+Publications
+    How to disable all publications from showing on the publications tab?
+        - Comment out the jinja that generates the list in /_pages/publications.md
+        - Comment out the jekyll scholar section in the config.yml file
+
+How to disable the website because SECURITY?
+    - Go to github and click on branches. Then delete the gh-pages branch.
+    - Committing to the master branch will generate the gh-pages branch again.

@@ -2,20 +2,29 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. I live in McCarty Hall. Contacts. Moto. Etc.
+subtitle: 
+# This is how you add a hyperlink: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: ryus_website.jpg
+  image: RyuFacingCameraAtComputer.jpg
   address: >
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# Don't activate the below part until you actually have papers.
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!---- This is how you make a hyperlink: [display text](actual link) --->
+<!---- This is how you make a code-like text display: `text` --->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<br>Hello!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is Ryu, prounouced like kanga`roo`.
+
+I am a Junior at the University of Washington. I am incredibly thankful to be working under [Ellen Wu](http://ellenmellon.github.io/) in the [H2Lab](https://h2lab.cs.washington.edu/). I transferred in from [Tarrant County College](https://www.tccd.edu/) in Fort Worth, Texas back in 2021 to pursue a BS in Computer Science at UW.
+
+My research interests in NLP are Language Modeling and Knowledge Representation, specifically in Question Answering, Prompt Tuning, and Knowledge Graphs.
+
+The ultimate goal in my research is to create an optimal, generalizable structure that analyzes text and expresses super-human thinking ability. Such a system should also be easy to use/interact with.
