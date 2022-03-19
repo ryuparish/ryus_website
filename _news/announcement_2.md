@@ -1,31 +1,30 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Police called on Black CS student, [redacted]
+date: 2022-03-16 16:11:00-0400
 inline: false
 ---
+<!--- This is how you make a link: <a href="url">display text</a> -->
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+"...also do you have time for a quick call?"
 
-***
+[redacted] and I had just got through talking about how someone had said to my face that my hair looked like a bush and laughed. 
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The person then said, "I thought you cared about your hair?" I was a little hurt since that person and I had just sat through a lecture in CSE 351 in which we discussed discrimination/bias in computing. 
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+It felt as if I am not allowed to have long hair since I am black, especially since my hair is long enough to stick out yet not long enough for me to put in a pony tail. It is finals week afterall.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Little did I know, [redacted] was about to tell me that while [pronoun] was at the CSE building early in the morning ([pronoun] had stayed up the whole night working extremely hard as all of us do in CSE) someone had called the **police** on [pronoun]. 
 
-***
+The officer had said that someone may have thought that [pronoun] was possibly homeless. 
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Is the Allen School giving away free Data Structures and Algorithms textbooks to the homeless community? Perhaps someone in homeless community had solved the Traveling Salesman Problem and needed to quickly whiteboard their proof?
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+How could you possibly think that someone INSIDE the CSE building (**card required!**) very early in the morning, actively using a computer and whiteboard, was somehow trespassing/homeless?
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Do you not have the decency to talk to a calm, studious individual to see what they were doing instead of **_calling the police_**?
+
+I couldn't answer this question. Perhaps this is an NP-Hard problem.
+
+I am now searching for the future Turing Award winner on the Ave, since someone must have confused [redacted] for this illusive genius.
+
