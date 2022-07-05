@@ -10,3 +10,7 @@ Publications
 How to disable the website because SECURITY?
     - Go to github and click on branches. Then delete the gh-pages branch.
     - Committing to the master branch will generate the gh-pages branch again.
+
+How to index on google?
+  - I think we first need to regenerate the sitemap, because google search console shows that
+  we do not have a sitemap even though we can reach it.
