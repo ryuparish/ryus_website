@@ -29,6 +29,4 @@ Previously, I was mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [
 
 I transferred to the Paul G. Allen School of Computer Science and Engineering at the University of Washington from [Tarrant County College](https://www.tccd.edu/) in Fort Worth, Texas back in 2021 to pursue a BS in Computer Science.
 
-My research interests in NLP are too many to list, but what I am interested in now is Knowledge Representation and Language Modeling, specifically in Question Answering, Prompt Tuning, and Information Retrieval. I am also really interested in software/personal/assistant tools that utilize NLP, using NLP as a tool to make life better is the future to me.
-
-The ultimate goal I have in research is to generalize the great work done in NLP to problems that we can solve with it. I also aim to challenge the best models to be even better.
+My research interests in NLP are Knowledge Representation and Language Modeling, specifically in Question Answering, Prompt Tuning, and Information Retrieval. I also really like applications of NLP to other fields of [Security, Text Analysis, Programming Languages...] and tools that utilize work from NLP like search engines, assistants, and translators.
