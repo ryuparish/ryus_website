@@ -12,7 +12,8 @@ profile:
 
 news: true  # includes a list of news items
 # Don't activate the below part until you actually have papers.
-selected_papers: false # includes a list of papers marked as "selected={true}"
+# includes a list of papers marked as "selected={true}"
+selected_papers: true 
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -23,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Ryu, prounouced like kanga`roo`.
 
-I am a Senior at the University of Washington. I am currently collaborating with PLSE on a potential project. 
+I am a BS/MS student at the University of Washington, currently collaborating with PLSE on a potential NLP-SE project.
 
 Previously, I was mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on a project about challenging language models to handle [Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746). It was difficult but the things I learned were incredibly valuable and I am extremely thankful to have gotten to work with Ellen.
 
