@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: internal-cdn.amazon.com.jpg
+  image: ryus_face.jpg
   address: >
 
 news: true  # includes a list of news items
