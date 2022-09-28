@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Ryu, prounouced like kanga`roo`.
 
-I am a BS/MS (Senior) student at the University of Washington, currently leading a potential NLP-SE project @ PLSE.
+I am a BS/MS (Senior) student at the University of Washington, currently leading a potential NLP-SE project at [PLSE](https://uwplse.org/index.html).
 
 Previously, I was mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on a project about challenging language models to handle [Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746). It was difficult but the things I learned were incredibly valuable and I am extremely thankful to have gotten to work with Ellen.
 
