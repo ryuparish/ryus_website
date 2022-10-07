@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ryu Parish # the website title (if blank, full name will be used instead)
+title: Ryu Parish (龍) # the website title (if blank, full name will be used instead)
 first_name: Ryu
 middle_name: 
-last_name: Parish
+last_name: Parish 
 email: rparish[at]cs[dot]washington[dot]edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ryu Parish
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: 14574142 #your stackoverflow id
 
 contact_note: >
-  If you actually want to talk to me, you can send me an email at rparish[at]cs[dot]washington[dot]edu
+  Feel free to send me an email at rparish[at]cs[dot]washington[dot]edu
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)

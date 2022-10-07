@@ -24,10 +24,10 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Ryu, prounouced like kanga`roo`.
 
-I am a BS/MS (Senior) student at the University of Washington, currently leading a potential NLP-SE project at [PLSE](https://uwplse.org/index.html).
+I am a BS/MS (Senior) student at the University of Washington, currently leading a NLP-SE project at [PLSE](https://uwplse.org/index.html) advised by [René Just](https://homes.cs.washington.edu/~rjust/) and mentored by [Sam Kaufman](http://samk.name/).
 
-Previously, I was mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on a project about challenging language models to handle [Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746). It was difficult but the things I learned were incredibly valuable and I am extremely thankful to have gotten to work with Ellen.
+Previously, I was advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html) and mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on a project about challenging language models to handle [Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746). It was difficult but the things I learned were incredibly valuable and I am extremely thankful to have gotten to work with Ellen.
 
 I transferred to the Paul G. Allen School of Computer Science and Engineering at the University of Washington from [Tarrant County College](https://www.tccd.edu/) in Fort Worth, Texas back in 2021 to pursue a BS in Computer Science.
 
-My research interests in NLP are Knowledge Representation and Language Modeling, specifically in Question Answering, Prompt Tuning, and Information Retrieval. I also really like applications of NLP to other fields like [Security, Text Analysis, Programming Languages...] and tools that utilize work from NLP like search engines, assistants, and translators.
+My research interests in NLP are Multimodality and Language Modeling, specifically in Question Answering, Multi-modal Representations, and Information Retrieval. I love applications of NLP to other fields like [Security, Text Analysis, Programming Languages...] and tools that utilize work from NLP like search engines, assistants, and translators.
