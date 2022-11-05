@@ -30,4 +30,4 @@ Previously, I was advised by [Hannaneh Hajishirzi](https://homes.cs.washington.e
 
 I transferred to the Paul G. Allen School of Computer Science and Engineering at the University of Washington from [Tarrant County College](https://www.tccd.edu/) in Fort Worth, Texas back in 2021 to pursue a BS in Computer Science.
 
-My research interests in NLP are Multimodality and Language Modeling, specifically in Question Answering, Multi-modal Representations, and Information Retrieval. I love applications of NLP to other fields like [Security, Text Analysis, Programming Languages...] and tools that utilize work from NLP like search engines, assistants, and translators.
+My research interests are in Applied NLP, especially in Multimodality and Code Understanding. To be more slightly more specific, topics such as Question Answering, Program Synthesis, and Information Retrieval. I aim to invent a system that can create robust, fully-functional applications from voice commands and/or human language text.
