@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: My projects.
 nav: true
-display_categories: [Recreational CS, Research Related, Community]
+display_categories: [Recreational CS, Research Related, Community, example]
 horizontal: false
 ---
 
