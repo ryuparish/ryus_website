@@ -2,9 +2,9 @@
 layout: page
 title: Birds Birds Birds
 description: My final project for CSE 455 Kaggle Competition
-img: assets/img/12.jpg
+img: assets/img/cse_455.jpg
 importance: 1
-category: example
+category: Coursework
 ---
 
 This is my final project for CSE 455, UW CSE's Computer Vision course taught by Joseph Redmon.
