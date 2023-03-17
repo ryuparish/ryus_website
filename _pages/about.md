@@ -31,3 +31,5 @@ Previously, I was advised by [Hannaneh Hajishirzi](https://homes.cs.washington.e
 I transferred to the Paul G. Allen School of Computer Science and Engineering at the University of Washington from [Tarrant County College](https://www.tccd.edu/) in Fort Worth, Texas back in 2021 to pursue a BS in Computer Science.
 
 My research interests are in Applied NLP / Neurosymbolic Programming, especially in applying Large Language Models to Code Understanding. I aim to invent a system that can create robust, fully-functional applications from voice commands and/or human language text.
+
+Here is my [CV](https://ryuparish.github.io/ryus_website/assets/pdf/RyuParishResearchResume.pdf).
