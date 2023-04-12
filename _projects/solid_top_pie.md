@@ -4,7 +4,7 @@ title: Solid Top Apple Pie
 description: Another apple pie
 img: /assets/img/solid_top_pie.jpg
 importance: 3
-category: Pies
+category: Pastries
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

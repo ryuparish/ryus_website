@@ -4,7 +4,7 @@ title: food
 permalink: /food/
 description: I love to cook.
 nav: true
-display_categories: [Pies, Japanese]
+display_categories: [Pastries, Japanese]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title: Lattice Apple Pie
 description: An apple pie
 img: /assets/img/cooked_lattice_pie_closeup.jpg
 importance: 3
-category: Pies
+category: Pastries
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
