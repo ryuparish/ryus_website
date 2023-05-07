@@ -2,7 +2,7 @@
 layout: page
 title: food
 permalink: /food/
-description: I love to cook.
+description: I love to cook. All are from scratch.
 nav: true
 display_categories: [Pastries, Japanese, Batter Breads]
 horizontal: false
