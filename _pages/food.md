@@ -4,7 +4,7 @@ title: food
 permalink: /food/
 description: I love to cook. All are from scratch.
 nav: true
-display_categories: [Pastries, Japanese, Batter Breads]
+display_categories: [Tarts, Pastries, Japanese, Batter Breads]
 horizontal: false
 ---
 

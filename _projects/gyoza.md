@@ -2,7 +2,7 @@
 layout: page
 title: Gyoza
 description: Classic Gyoza
-img: /assets/img/GreenGyoza.jpg
+img: /assets/img/GreenGyozaSmall.jpg
 importance: 3
 category: Japanese
 ---
