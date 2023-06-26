@@ -2,7 +2,7 @@
 layout: page
 title: Cheesecake
 description: A cheesecake
-img: /assets/img/gooey_cheesecake_slice.jpg
+img: /assets/img/clean_cheesecake_slice.jpg
 importance: 3
 category: Tarts
 ---

@@ -20,5 +20,5 @@ category: Pastries
     </div>
 </div>
 <div class="caption">
-    This was the first I made cookie from scratch. It was quick and easy, but freezing them had a different texture.
+    This was the first time I made cookies from scratch. It was quick and easy, but freezing them had a different texture.
 </div>
