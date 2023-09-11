@@ -19,6 +19,14 @@ category: Pastries
         {% include figure.html path="assets/img/cooked_lattice_pie_closeup.jpg" title="Glam shot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/apple_pie_with_ice_cream3.jpeg" title="Glam shot 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/apple_pie_with_ice_cream4.jpeg" title="Glam shot 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
-    This was the first pie I had ever made. It was delicious.
+    Apple pie is probably my favorite thing to make!
 </div>
