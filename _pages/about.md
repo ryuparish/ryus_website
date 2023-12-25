@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: RyuWithDog.jpg
+  image: main_ryu.jpg
   address: >
 
 news: true  # includes a list of news items
