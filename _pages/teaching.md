@@ -1,8 +1,0 @@
----
-layout: page
-permalink: /teaching/
-title: teaching
-description: Courses I've TA'd or taught. (I've done neither yet)
-nav: true
----
-
