@@ -30,4 +30,4 @@ I am incredibly grateful to have worked with so many wonderful researchers and a
 
 I transferred to the Paul G. Allen School of Computer Science and Engineering at the University of Washington from [Tarrant County College](https://www.tccd.edu/) in Hurst, Texas back in 2021 to pursue a BS in Computer Science.
 
-Here is my [CV](https://ryuparish.github.io/ryus_website/assets/pdf/RyuParishSEResume2024.pdf).
+Here is my [CV](https://ryuparish.github.io/ryus_website/assets/pdf/RyuParishGoogleResume.pdf).
