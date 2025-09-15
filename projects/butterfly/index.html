@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=/ryus_website//" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Ryu Parish (龍) | Page not found</title>
+    <title>Ryu Parish (龍) | butterfly</title>
     <meta name="author" content="Ryu  Parish" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="No more wondering if you can make your "usual" outfit" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐉</text></svg>">
     
     <link rel="stylesheet" href="/ryus_website/assets/css/main.css">
-    <link rel="canonical" href="https://ryuparish.github.io/ryus_website/404.html">
+    <link rel="canonical" href="https://ryuparish.github.io/ryus_website/projects/butterfly/">
     
     <!-- Dark Mode -->
     
@@ -92,12 +92,58 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">butterfly</h1>
+            <p class="post-description">No more wondering if you can make your "usual" outfit</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ryuparish.github.io/ryus_website//">here</a>.</p>
+            <p>I noticed that when I do laundry I would, at some point, sort of “display” the article of clothing before folding
+the laundry like this:</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <!-- Simplified approach for better mobile compatibility -->
+  <img class="img-fluid rounded z-depth-1" src="/ryus_website/assets/img/folding_laundry.jpg" title="example image">
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    *Not me*
+</div>
+
+<p>That’s when I realized, I could probably take a picture right when I did this by either detecting this pose and then
+automatically taking a picture, or more chaotically (this is what I did), by setting a small device to take a photo
+every 15 seconds or so until my laundry was all folded.</p>
+
+<p>First, I would take a picture of each article of clothing in my closet (this was the most laborous part, but it gets very
+convenient afterwards).</p>
+
+<p>Then, I could use a CNN/Siamese network to match (or at least match the general class of the article of clothing)
+the currently-being-folded piece of clothing to an existing article of clothing and mark this piece of clothing as clean.</p>
+
+<p>Finally, on a daily basis, when I would choose my outfit I could just take a single photo, mark all the clothing I am wearing
+as “dirty” and have an actively tracked wardrobe application. With this, I could always know what outfit I could wear, approximately how long until no outfits that I usually wore availble (time to do the laundry).</p>
+
+<p>Here is the device that I used (a cheap chasis, Nvidia Jetson Nano 2GB, and high quality camera):</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <!-- Simplified approach for better mobile compatibility -->
+  <img class="img-fluid rounded z-depth-1" src="/ryus_website/assets/img/RyuCVDevice.jpeg" title="example image">
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    I actually had a different camera at first, but the quality created a training-data / testing-data mismatch.
+</div>
 
           </article>
 
