@@ -1,9 +1,6 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
 # This line may be problematic since two backslashes were included last time
 # e.g. /sitemap.xml instead of sitemap.xml
-Sitemap: {{ site.baseurl | prepend: site.url }}sitemap.xml
+Sitemap: https://ryuparish.github.io/ryus_website/sitemap.xml
