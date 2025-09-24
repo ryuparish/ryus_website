@@ -22,9 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Ryu, prounouced like kanga`roo`. I am a software engineer at Google, working on AI infrastructure (my website and content are not affliated with Google in any way). I have a huge passion and interest for computers and their role in human society.
 
-I was previously a BS/MS student at the University of Washington and worked on NLP-SE (Natural Language Processing and Software Engineering) research at [PLSE](https://uwplse.org/index.html) advised by [René Just](https://homes.cs.washington.edu/~rjust/) and mentored by [Sam Kaufman](http://samk.name/).
+I was previously a BS/MS student (dropped out of masters) in 2023 at the University of Washington and worked on NLP-SE (Natural Language Processing and Software Engineering) research at [PLSE](https://uwplse.org/index.html) advised by [René Just](https://homes.cs.washington.edu/~rjust/) and mentored by [Sam Kaufman](http://samk.name/).
 
-Before that, I was advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html) and mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on [Natural Language Processing](https://arxiv.org/abs/2207.00746).
+Before that in 2021, I was advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html) and mentored by [Ellen Wu](http://ellenmellon.github.io/) at the [H2Lab](https://h2lab.cs.washington.edu/) and worked on [Natural Language Processing](https://arxiv.org/abs/2207.00746).
+
+During my time at the University of Washington, I interned at Amazon Web Services three times and worked for a startup called Cledge, where I lead a project using OpenAI's GPT3 Private Beta program.
 
 I am incredibly grateful to have worked with so many wonderful researchers and am still very interested in working on Machine Learning for Code, Natural Language Processing, and Software Engineering projects.
 
