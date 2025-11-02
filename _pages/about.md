@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br>Hello!
 
-My name is Ryu, prounouced like kanga`roo`. I am a software engineer at Google, working on AI infrastructure (my website and content are not affliated with Google in any way). I have a huge passion and interest for computers and their role in human society.
+My name is Ryu, prounouced like kanga`roo`. I am a software engineer at [Google](https://www.google.com), working on AI infrastructure (my website and content are not affliated with Google in any way). I have a huge passion and interest for computers and their role in human society.
 
 I was previously a BS/MS student (dropped out of masters) in 2023 at the University of Washington and worked on NLP-SE (Natural Language Processing and Software Engineering) research at [PLSE](https://uwplse.org/index.html) advised by [René Just](https://homes.cs.washington.edu/~rjust/) and mentored by [Sam Kaufman](http://samk.name/).
 
