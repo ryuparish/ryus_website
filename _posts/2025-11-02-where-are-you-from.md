@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Where are you from? Why did you move?"
+title: "Where are you from?"
 date: 2025-11-02 15:22:00-0400
 description: People ask this question in public a lot.
 categories: Personal
 ---
 
-I wish I knew how to answer this question.
+"Where were you born? Oh Tokyo, okay. Why did you move from Japan to the US?"
+
+I don't know.
 
 My biological family is too dysfunctional to agree on the truth of how we came to the US. There have been many times where my sister and I have built up the courage to ask about this seemingly really touchy subject in our family. Each time, they tell a story that makes sense but contradicts the other family members' stories.
 As a biological family, we don’t take pictures often or organize documents in a single household (due to violent divorce), and knowing what happened is difficult.
