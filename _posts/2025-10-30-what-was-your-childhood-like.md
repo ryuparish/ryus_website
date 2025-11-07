@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "What was your childhood like?"
+title: "What was your childhood like? What got you into computer science?"
 date: 2025-10-30 05:26:00-0400
-description: People ask this question in public a lot.
+description: People ask this question in public and in my DMs.
 categories: Personal
 ---
 
